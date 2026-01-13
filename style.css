@@ -37,9 +37,35 @@ header {
     padding: 20px 0 15px 0;
 }
 
-.paragrafo_titolo{
+.paragrafo_titolo {
     font-family: "DM Sans", sans-serif;
     text-align: center;
     color: white;
-    
+    padding: 0 0 50px 0;
+}
+
+.Download {
+    text-align: center;
+    background-color: white;
+    margin: 1px;
+    border: 1px solid black;
+    height: 45px;
+    width: 300px;
+    margin-left: 120px;
+    padding: 13px;
+    font-family: "DM Sans", sans-serif;
+    border-radius: 10px;
+}
+
+.OpenDiscord {
+    text-align: center;
+    background-color: #5865F2;
+    margin: 1px;
+    border: 1px solid black;
+    height: 45px;
+    width: 300px;
+    margin-left: 120px;
+    padding: 13px;
+    font-family: "DM Sans", sans-serif;
+    border-radius: 10px;
 }
