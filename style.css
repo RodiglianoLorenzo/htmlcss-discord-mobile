@@ -9,7 +9,7 @@ body {
 }
 
 .background {
-    background-color: rgb(44, 44, 245);
+    background-color: rgb(3, 3, 104);
     z-index: -1;
     background-size: cover;
     position: fixed;
@@ -25,4 +25,21 @@ header {
 #img_header {
     max-width: 512px;
     margin: -4px;
+}
+
+.titolo {
+    font-family: "DM Sans", sans-serif;
+    font-size: 30px;
+    font-weight: 1000;
+    text-align: center;
+    color: white;
+    line-height: 27px;
+    padding: 20px 0 15px 0;
+}
+
+.paragrafo_titolo{
+    font-family: "DM Sans", sans-serif;
+    text-align: center;
+    color: white;
+    
 }
