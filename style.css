@@ -13,8 +13,8 @@ body {
     z-index: -1;
     background-size: cover;
     position: relative;
-    height: 100%;
     width: 512px;
+    padding-bottom: 60px;
 }
 
 header {
@@ -100,7 +100,6 @@ header {
     margin-bottom: 20px;
     color: white;  
     margin-top: 50px;
-    padding-top: 
 }
 
 
@@ -127,10 +126,9 @@ video{
     border-radius: 30%;
 }
 
-img{
-    position: absolute;
+.img {
+    display: block;  
     width: 100px;
     height: 100px;
     margin-top: -80px;
 }
-
