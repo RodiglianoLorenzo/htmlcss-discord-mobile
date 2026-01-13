@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 512px;
+}
+
+.background {
+    background-color: rgb(44, 44, 245);
+    z-index: -1;
+    background-size: cover;
+    position: fixed;
+    height: 100%;
+    width: 512px;
+}
+
+header {
+    max-width: 512px;
+
+}
+
+#img_header {
+    max-width: 512px;
+    margin: -4px;
+}
