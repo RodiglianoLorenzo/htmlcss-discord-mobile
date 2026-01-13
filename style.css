@@ -28,20 +28,25 @@ header {
 }
 
 .titolo {
-    font-family: "DM Sans", sans-serif;
+    font-family: "Sigmar", sans-serif;
     font-size: 30px;
     font-weight: 1000;
     text-align: center;
     color: white;
     line-height: 27px;
-    padding: 20px 0 15px 0;
+    margin-top: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
 }
 
 .paragrafo_titolo {
     font-family: "DM Sans", sans-serif;
     text-align: center;
     color: white;
-    padding: 0 0 50px 0;
+    margin-top: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 15px;
 }
 
 .Download {
@@ -59,6 +64,7 @@ header {
 
 .OpenDiscord {
     text-align: center;
+    color: white;
     background-color: #5865F2;
     margin: 1px;
     border: 1px solid black;
@@ -81,16 +87,11 @@ header {
     margin-bottom: 20px;
     color: white;
     
+    
 }
 
-.fun-group2{
-    background-image: url(./img/background.png);
-    border-radius: 20px;
-    padding: 10px 0 60px 0;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    color: white;
+.video{
+   
 }
 
 .Title_fun_group {
